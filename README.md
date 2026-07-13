@@ -270,15 +270,19 @@ Business Recommendations
 Include screenshots from your notebook, for example:
 
 - KPI Dashboard
-- Monthly Sales Trend
-- Top Product Categories
-- Customer Lifetime Value Distribution
-- Seller Performance
-- Payment Method Analysis
-- Customer Review Distribution
-- Delivery Performance
-- RFM Customer Segmentation
+<img width="723" height="452" alt="1" src="https://github.com/user-attachments/assets/22beb085-bc7d-4895-b018-17eb7bb51ff1" />
+
+- Monthly Revenue Trend
+<img width="1009" height="550" alt="2" src="https://github.com/user-attachments/assets/418ab14b-52dd-465e-a883-dfbe4b8fdb06" />
+
+- Average delivery time by Review score
+<img width="701" height="472" alt="1" src="https://github.com/user-attachments/assets/c9dd4736-2e61-4318-b432-5dd9ecbbbd08" />
+
+- Top States by Revenue
+<img width="834" height="472" alt="2" src="https://github.com/user-attachments/assets/09f583a1-53e9-458e-a25f-61d4d4fde9dc" />
+
 - Pareto Analysis
+<img width="851" height="549" alt="3" src="https://github.com/user-attachments/assets/cd8f64dc-f2cc-4173-9132-10d2f3b38508" />
 
 ---
 
